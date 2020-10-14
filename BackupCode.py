@@ -1,6 +1,6 @@
 # Ben's Backup
 # Written by Ben Graham (b.graham@queensu.ca)
-# Version 1.0 (written 200810) (comments updated for clairty 201013)
+# Version 0.1.0 (written 200810) (comments updated for clairty 201013)
 # Makes backup of Desktop and Documents to local removable disk M:
 # Must contain folder M:/Backups
 # Backups places in folder titled YYMMDD
