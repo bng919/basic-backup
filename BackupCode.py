@@ -14,7 +14,7 @@ import sys
 from datetime import datetime
 
 folderName = datetime.today().strftime('%Y%m%d') # Get date
-folderName = folderName[2:] # Remove starting chars (will be '20' for the rest of this century, not a good long term solution but shouldn't be alive to encournter this issue)
+folderName = folderName[2:] # Remove starting chars (will be '20' for the rest of this century, not a good long term solution but I shouldn't be alive to encournter this issue)
 newFolderPath = "M:/Backups/" + folderName # New backup folder path
 
 # Make new backup folder
